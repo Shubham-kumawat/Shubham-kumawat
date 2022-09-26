@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29cd549e.css",
+    "main.js": "/static/js/main.3d98b774.js",
+    "static/js/787.5315e33b.chunk.js": "/static/js/787.5315e33b.chunk.js",
+    "static/media/book1.jpg": "/static/media/book1.7ee7a8f436a9dd3a841b.jpg",
+    "static/media/book2.jpg": "/static/media/book2.c3ce60b3d80f4e4037ac.jpg",
+    "static/media/Sonu-Sharma.jpg": "/static/media/Sonu-Sharma.a1ad84fc7c43f0ca219f.jpg",
+    "static/media/book3.jpg": "/static/media/book3.933abd6d3ad74044e138.jpg",
+    "static/media/images.jpg": "/static/media/images.103de29cb0a4661f8490.jpg",
+    "static/media/sandeep-jpg.jpg": "/static/media/sandeep-jpg.155c0d92f20ac067660d.jpg",
+    "index.html": "/index.html",
+    "main.29cd549e.css.map": "/static/css/main.29cd549e.css.map",
+    "main.3d98b774.js.map": "/static/js/main.3d98b774.js.map",
+    "787.5315e33b.chunk.js.map": "/static/js/787.5315e33b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.3d98b774.js"
+  ]
+}
